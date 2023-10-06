@@ -33,7 +33,7 @@ public class Partida {
         this.golsTime2 = golsTime2;
     }
 
-
+// QUESTÃO 5:
     public int ProcessadorPontuacao(Partida partida) {
         int pontuacao = 0;
         if (partida.golsTime1 > partida.golsTime2) {

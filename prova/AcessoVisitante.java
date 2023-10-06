@@ -1,3 +1,4 @@
+//QUESTÃO 2:
 public class AcessoVisitante {
 
     private Visitante visitante;
